@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ryan D Day",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express-session": "^1.15.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.0.0"
+  }
 }
